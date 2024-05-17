@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Student of engineering of computing system at Politecnico di Milano<br>🔭 I’m attending the third year of university<br>🏁 2024 goal: bachelor’s degree and enrolment in the master’s degree in computing system engineering 
+📚 Student of engineering of computing system at Politecnico di Milano<br>🔭 I’m attending the third year of university<br>🏁 2024 goal: bachelor’s degree and enrolment in the master’s degree in computer science and engineering 
 
 
 # 💻 Tech Stack:
